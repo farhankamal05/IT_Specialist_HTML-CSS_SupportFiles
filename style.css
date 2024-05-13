@@ -59,7 +59,7 @@ html,body{
     display: grid;
     padding: 20px;
     background-color: black;
-    background-image: url(images/Banner.jpg);
+    background-image: url(images/Banner.png);
     background-position: center;
     grid-template-columns: 1fr 1fr 1fr;
   }
