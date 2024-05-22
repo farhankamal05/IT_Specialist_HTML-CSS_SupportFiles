@@ -19,6 +19,8 @@ figcaption {
     color:#032f0d;
 }
 .sale {
+    font-style: italic;
+    font-weight: bold;
     background-color: #AAEEFF;
 }
 #sidenote {
