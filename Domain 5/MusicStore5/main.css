@@ -12,6 +12,8 @@ figcaption {
     color: navy;
     font-weight: bold;
     /*background-color: #AAEEFF;*/
+    /* Line 10 has nothing so I went for fig caption */
+    font-variant: small-caps;
 }
 .sale {
     font-weight: bold;
