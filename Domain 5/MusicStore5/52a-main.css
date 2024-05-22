@@ -8,6 +8,9 @@ p {
 
 /* The background color is extending across the page,
     so I have commented it out for now. */
+h1, h2, h3, h4, h5, h6{
+    font-family: helvetica, arial, sans-serif;
+}
 figcaption {
     color: navy;
     font-weight: bold;
