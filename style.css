@@ -92,3 +92,22 @@ html,body{
   #left{
     
   }
+
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#777;
+    float: left;
+}
+
+li {
+  display: block;
+}
+
+li a{
+  color: blue;
+  text-align: center;
+  paading: 10px 12px;
+}
