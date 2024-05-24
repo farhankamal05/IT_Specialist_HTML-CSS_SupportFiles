@@ -56,3 +56,11 @@ li.dropdown {
 .container {
   display: grid;
 }
+
+.box1 {
+  float: left;
+}
+
+.box2 {
+  float: right;
+}
