@@ -53,7 +53,7 @@ li.dropdown {
   display: block;
 }
 
-.container {
+.Container {
   display: grid;
   grid-template-columns: auto auto auto;
 }
